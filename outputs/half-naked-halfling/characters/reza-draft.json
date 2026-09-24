@@ -1,0 +1,438 @@
+{
+  "status": "Character creation in progress; not a completed character sheet or live campaign commit",
+  "provenance": "User statements and explicit choices in this conversation through September 5, 2026",
+  "identity": {
+    "name": "Reza",
+    "species": "Human",
+    "age": 24,
+    "class": "Warlock",
+    "level": 3,
+    "subclass": "Fiend Patron",
+    "appearance": [
+      "brown hair",
+      "slim build",
+      "never smiles"
+    ],
+    "demeanor": [
+      "hypervigilant",
+      "angry",
+      "bears a grudge"
+    ]
+  },
+  "confirmed_history": [
+    "Reza was a jeweler’s apprentice whose master was horribly abusive.",
+    "His girlfriend Ambrosia was part of his life outside his apprenticeship. She was an apprentice seamstress and was treated poorly by her own master.",
+    "They knew about each other’s mistreatment and discussed escaping together, but believed their masters would never let them go.",
+    "Reza sought power to stop himself from being a victim.",
+    "The patron demanded \"a death\". Reza himself chose to kill Ambrosia, believing he was showing mercy by freeing her from her circumstances.",
+    "Ambrosia did not initially know his intention. She realized as it began and died afraid while looking him in the eyes.",
+    "Ambrosia died two years before the present, when Reza was 22.",
+    "Reza later killed his own master and left the apprenticeship. His responsibility for both deaths remains a secret."
+  ],
+  "personality_and_beliefs": [
+    "Reza moves substantially between remorse and justification. Remembering Ambrosia’s fear breaks through his belief that killing her was merciful.",
+    "He remains in love with Ambrosia and believes she could never do wrong.",
+    "His ambition has grown: he believes enough power could prevent anything like what happened to him and Ambrosia from ever happening again.",
+    "He would not refuse to harm another innocent person to gain that power.",
+    "He gives most people little mental attention. The few he considers worthy of that attention largely remain focal points for him forever.",
+    "He knows only that his patron is likely demonic; its identity and actual nature are not established."
+  ],
+  "ambrosia": {
+    "relationship": "Deceased girlfriend whose spectral ghost follows Reza",
+    "behavior": "Sometimes speaks to him, sometimes tries to trick him into horrible decisions or teases him from afar to get him into trouble.",
+    "perception": "Others can sometimes perceive her and sometimes cannot; this is unpredictable. Record actual witnesses for each appearance.",
+    "influence": "Mostly words and appearances. With great stored energy she has sometimes affected small physical aspects of the world, such as slamming a door or window.",
+    "energy_source": "Reza knows she siphons energy from him.",
+    "consent_belief": "Reza believes he allows it willingly, but has never tried to stop it; whether he can is unknown.",
+    "effects": "Usually no noticeable physical effect. Sometimes he tires sooner than others. Others would describe him as groggy almost every morning, as if behind on sleep.",
+    "unresolved": [
+      "her motives",
+      "actual control over visibility",
+      "energy accumulation rate and capacity",
+      "whether Reza can prevent the siphoning",
+      "any mechanical cost or exhaustion effect",
+      "full ghost mechanics"
+    ],
+    "player_visibility_agreement": {
+      "approved": true,
+      "scope": "Independent NPC with consistent private mechanical limits, discoverable through play; not included in player-facing sheet",
+      "audit": "Record actions, energy changes, perception by each witness, and causal evidence outside conversational memory",
+      "knowledge_boundary": "Reza knows siphoning occurs and believes it is voluntary; actual ability to stop it and other unresolved facts remain unresolved until established."
+    }
+  },
+  "combat_preference": "Directly overwhelm enemies with magic",
+  "proposed_not_selected": {},
+  "unfinished_mechanics": [
+    "Prepare and privately pin Ambrosia mechanics before pilot begins; player has approved hidden mechanics",
+    "Optional additional equipment purchases and final sheet review"
+  ],
+  "knowledge_boundary": "These are player-provided character facts and beliefs, not public NPC knowledge. No campaign secrets have been added. The mechanical subclass does not identify the patron in fiction.",
+  "ability_scores": {
+    "method": "Standard Array",
+    "method_status": "User selected fixed scores for the test",
+    "base_scores": {
+      "Strength": 8,
+      "Dexterity": 14,
+      "Constitution": 13,
+      "Intelligence": 12,
+      "Wisdom": 10,
+      "Charisma": 15
+    },
+    "allocation_basis": "SRD 5.2.1 suggested Warlock assignment, p. 21",
+    "background_adjustments": {
+      "Intelligence": 2,
+      "Constitution": 1
+    },
+    "final_scores": {
+      "Strength": 8,
+      "Dexterity": 14,
+      "Constitution": 14,
+      "Intelligence": 14,
+      "Wisdom": 10,
+      "Charisma": 15
+    },
+    "modifiers": {
+      "Strength": -1,
+      "Dexterity": 2,
+      "Constitution": 2,
+      "Intelligence": 2,
+      "Wisdom": 0,
+      "Charisma": 2
+    }
+  },
+  "background": {
+    "name": "Sage",
+    "source": "SRD521:p083",
+    "use": "Published mechanical package; retains player-established jeweler apprenticeship in fiction",
+    "skills": [
+      "Arcana",
+      "History"
+    ],
+    "tool_proficiency": "Calligrapher’s Supplies",
+    "origin_feat": "Magic Initiate (Wizard)",
+    "equipment_choice": "Option B: 50 GP",
+    "ability_adjustments": {
+      "Intelligence": 2,
+      "Constitution": 1
+    },
+    "ability_adjustment_basis": "Apply bonuses to permitted Sage abilities; Constitution 13 becomes 14 and Intelligence 12 becomes 14. Charisma is not an eligible Sage increase."
+  },
+  "mechanical_boundaries": [
+    "Sage gives Calligrapher’s Supplies proficiency, not Jeweler’s Tools proficiency. The narrative apprenticeship alone does not add a mechanical proficiency.",
+    "Magic Initiate (Wizard) does not add Wizard class levels."
+  ],
+  "selected_magic": {
+    "warlock_cantrips": [
+      "Eldritch Blast",
+      "Mage Hand"
+    ],
+    "eldritch_invocations": [
+      {
+        "name": "Agonizing Blast",
+        "applies_to": "Eldritch Blast"
+      },
+      {
+        "name": "Repelling Blast",
+        "applies_to": "Eldritch Blast",
+        "effect": "On hitting a Large or smaller creature, may push it up to 10 feet straight away."
+      },
+      {
+        "name": "Fiendish Vigor",
+        "effect": "Cast False Life without a spell slot; maximize its dice to gain 12 temporary hit points. Spell components and casting time still apply."
+      }
+    ],
+    "approval": "User confirmed both Warlock cantrips, all three invocations, and the four chosen Warlock spells. Fiend spells follow from the approved subclass.",
+    "references": [
+      "SRD521:p071",
+      "SRD521:p072",
+      "SRD521:p127",
+      "SRD521:p073",
+      "SRD521:p074",
+      "SRD521:p129",
+      "SRD521:p145",
+      "SRD521:p075",
+      "SRD521:p076",
+      "SRD521:p140",
+      "SRD521:p150"
+    ],
+    "eldritch_blast_at_current_level": {
+      "attack_bonus": 4,
+      "range_feet": 120,
+      "beams": 1,
+      "damage_on_hit": "1d10 + 2 Force",
+      "spell_slot_cost": 0
+    },
+    "warlock_prepared_spells": [
+      "Hex",
+      "Hellish Rebuke",
+      "Misty Step",
+      "Mirror Image"
+    ],
+    "fiend_always_prepared_spells": [
+      "Burning Hands",
+      "Command",
+      "Scorching Ray",
+      "Suggestion"
+    ],
+    "pact_magic_slots": {
+      "maximum": 2,
+      "slot_level": 2,
+      "recovery": "Short or Long Rest",
+      "current": "Not initialized; campaign has not begun"
+    },
+    "magic_initiate_wizard": {
+      "cantrips": [
+        "Minor Illusion",
+        "Prestidigitation"
+      ],
+      "level_1_spell": "Shield",
+      "spellcasting_ability": "Charisma",
+      "free_casting": "Shield once without a spell slot per Long Rest; may also use available spell slots",
+      "approval": "User accepted the recommended package, emphasizing Shield",
+      "references": [
+        "SRD521:p087",
+        "SRD521:p149",
+        "SRD521:p154",
+        "SRD521:p161",
+        "SRD521:p162"
+      ]
+    },
+    "reaction_note": "Shield and Hellish Rebuke both use a reaction; spending it on one prevents using the other until the reaction is regained."
+  },
+  "human_choices": {
+    "origin_feat": "Alert",
+    "skill_proficiency": "Perception",
+    "approval": "User confirmed Alert and Perception",
+    "references": [
+      "SRD521:p086",
+      "SRD521:p087"
+    ],
+    "size": "Medium",
+    "size_approval": "User explicitly confirmed Medium size"
+  },
+  "derived_statistics": {
+    "proficiency_bonus": 2,
+    "initiative": 4,
+    "perception": 2,
+    "passive_perception": 12,
+    "proficient_skills": {
+      "Arcana": 4,
+      "History": 4,
+      "Intimidation": 4,
+      "Investigation": 4,
+      "Perception": 2
+    },
+    "hp_method": "Fixed gains as the test-build default; no rolls made",
+    "max_hp": 24,
+    "hit_dice": "3d8",
+    "armor_class_with_shield_spell": 19,
+    "spell_attack_bonus": 4,
+    "spell_save_dc": 12,
+    "saving_throw_proficiencies": [
+      "Wisdom",
+      "Charisma"
+    ],
+    "saving_throw_bonuses": {
+      "Strength": -1,
+      "Dexterity": 2,
+      "Constitution": 2,
+      "Intelligence": 2,
+      "Wisdom": 2,
+      "Charisma": 4
+    },
+    "speed_feet": 30,
+    "references": [
+      "SRD521:p022",
+      "SRD521:p023",
+      "SRD521:p070",
+      "SRD521:p086",
+      "SRD521:p092"
+    ],
+    "armor_class": 14,
+    "equipped_armor": "Studded Leather Armor"
+  },
+  "warlock_skill_proficiencies": {
+    "skills": [
+      "Intimidation",
+      "Investigation"
+    ],
+    "approval": "User accepted recommended skill choices",
+    "reference": "SRD521:p070"
+  },
+  "starting_equipment": {
+    "class_choice": "Warlock option A",
+    "items": [
+      "Leather Armor",
+      "Sickle",
+      "2 Daggers",
+      "Arcane Focus (orb)",
+      "Book (occult lore)",
+      "Scholar’s Pack"
+    ],
+    "class_gold_gp": 15,
+    "background_choice": "Sage option B",
+    "background_gold_gp": 50,
+    "total_starting_gold_gp": 65,
+    "approval": "User approved starting kit and Sage money option",
+    "references": [
+      "SRD521:p070",
+      "SRD521:p083"
+    ]
+  },
+  "higher_level_equipment": {
+    "reference": "SRD521:p024",
+    "starting_level": 3,
+    "guideline": "Normal starting equipment and one Common magic item; GM decides extra equipment",
+    "extra_gold_gp": 0,
+    "common_magic_item": {
+      "name": "Potion of Healing",
+      "quantity": 1,
+      "rarity": "Common",
+      "effect": "Restores 2d4 + 2 hit points; consumed on use",
+      "source": "Higher-level starting-equipment guideline; no starting gold spent",
+      "approval": "User explicitly selected Potion of Healing",
+      "references": [
+        "SRD521:p024",
+        "SRD521:p235",
+        "SRD521:p236"
+      ]
+    }
+  },
+  "languages": {
+    "known": [
+      "Common",
+      "Dwarvish",
+      "Gnomish"
+    ],
+    "approval": "User approved Dwarvish and Gnomish as the two additional standard languages",
+    "reference": "SRD521:p020"
+  },
+  "equipment_transactions": [
+    {
+      "id": "reza-equipment-prep-001",
+      "phase": "Character preparation; no fictional shop encounter or live campaign event asserted",
+      "authority": "User explicitly authorized recommended purchases and sale of equipment duplicated by upgrades",
+      "currency_unit": "cp",
+      "gold_before_cp": 6500,
+      "purchases": [
+        {
+          "item": "Studded Leather Armor",
+          "quantity": 1,
+          "unit_cost_cp": 4500,
+          "total_cost_cp": 4500
+        },
+        {
+          "item": "Bedroll",
+          "quantity": 1,
+          "unit_cost_cp": 100,
+          "total_cost_cp": 100
+        },
+        {
+          "item": "Waterskin",
+          "quantity": 1,
+          "unit_cost_cp": 20,
+          "total_cost_cp": 20
+        },
+        {
+          "item": "Rations (1 day)",
+          "quantity": 5,
+          "unit_cost_cp": 50,
+          "total_cost_cp": 250
+        },
+        {
+          "item": "Rope",
+          "quantity": 1,
+          "unit_cost_cp": 100,
+          "total_cost_cp": 100
+        },
+        {
+          "item": "Traveler’s Clothes",
+          "quantity": 1,
+          "unit_cost_cp": 200,
+          "total_cost_cp": 200
+        }
+      ],
+      "sales": [
+        {
+          "item": "Leather Armor",
+          "quantity": 1,
+          "sale_value_cp": 500,
+          "reason": "Replaced by Studded Leather Armor",
+          "rule": "SRD521:p089: equipment sells for half its cost; leather costs 10 GP under SRD521:p092"
+        }
+      ],
+      "purchase_total_cp": 5170,
+      "sale_total_cp": 500,
+      "gold_after_cp": 1830,
+      "references": [
+        "SRD521:p089",
+        "SRD521:p092",
+        "SRD521:p095",
+        "SRD521:p097",
+        "SRD521:p099"
+      ]
+    }
+  ],
+  "current_inventory": {
+    "phase": "Prepared starting inventory; not yet spent in play",
+    "items": [
+      {
+        "name": "Sickle",
+        "quantity": 1
+      },
+      {
+        "name": "Dagger",
+        "quantity": 2
+      },
+      {
+        "name": "Arcane Focus (orb)",
+        "quantity": 1
+      },
+      {
+        "name": "Book (occult lore)",
+        "quantity": 1
+      },
+      {
+        "name": "Scholar’s Pack",
+        "quantity": 1
+      },
+      {
+        "name": "Potion of Healing",
+        "quantity": 1
+      },
+      {
+        "name": "Studded Leather Armor",
+        "quantity": 1
+      },
+      {
+        "name": "Bedroll",
+        "quantity": 1
+      },
+      {
+        "name": "Waterskin",
+        "quantity": 1
+      },
+      {
+        "name": "Rations (1 day)",
+        "quantity": 5
+      },
+      {
+        "name": "Rope",
+        "quantity": 1
+      },
+      {
+        "name": "Traveler’s Clothes",
+        "quantity": 1
+      }
+    ],
+    "equipped_armor": "Studded Leather Armor",
+    "coins": {
+      "gp": 18,
+      "sp": 3,
+      "cp": 0
+    },
+    "coin_value_cp": 1830,
+    "source_transaction": "reza-equipment-prep-001",
+    "pack_note": "Scholar’s Pack still contains its original backpack, book, ink, pen, lamp, 10 oil flasks, 10 parchment sheets and tinderbox. These contents are not additional copies outside the pack."
+  }
+}

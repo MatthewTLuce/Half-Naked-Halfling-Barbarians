@@ -1,0 +1,47 @@
+{
+  "regression_tests": {
+    "passed": 56,
+    "failed": 0,
+    "command": "python3 -m unittest discover -s tests -v"
+  },
+  "synthetic_run": {
+    "sessions": 100,
+    "records": 433,
+    "proposals": 113,
+    "commits": 100,
+    "intentional_false_claims_detected": 10,
+    "interruption_injections": 6,
+    "scope": "Original pre-ingestion 100-session run; not rerun or relabeled as SRD evaluation"
+  },
+  "independent_export_verified": true,
+  "live_api": "mock-tested only; no paid request made",
+  "semantic_model_performance": "not measured",
+  "srd_ingestion": {
+    "pages": 364,
+    "source_sha256": "8974902d109d6e63672d7c490bde9ccf052410503d9cfa768237154fbc5e3d87",
+    "visual_sample": [
+      7,
+      29,
+      364
+    ],
+    "tests_passed": 31,
+    "paid_api_calls": 0
+  },
+  "local_interface": {
+    "tests": "23 new tests; 54 total pass",
+    "javascript": "Three modules pass syntax checks",
+    "browser_visual_qa": "not performed",
+    "live_api_calls": 0,
+    "independent_dice_audit": true,
+    "pilot_opening": "not published"
+  },
+  "rehearsal": {
+    "authorized": true,
+    "mode": "unscored_rehearsal",
+    "independent_live_review": false,
+    "semantic_evaluation": "deferred",
+    "paid_calls": 0,
+    "opening_structural_audit": true,
+    "tests_total": 56
+  }
+}

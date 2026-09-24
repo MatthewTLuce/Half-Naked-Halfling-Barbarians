@@ -1,0 +1,14 @@
+# Credentials and local configuration
+.env*
+!.env.example
+# Runtime campaign data and operator secrets
+**/local-data/
+*.sqlite*
+**/operator-key.txt
+# Scratch work, private setup scripts, and generated archives
+/work/
+/outputs/*.zip
+# Local caches
+__pycache__/
+*.py[cod]
+.DS_Store

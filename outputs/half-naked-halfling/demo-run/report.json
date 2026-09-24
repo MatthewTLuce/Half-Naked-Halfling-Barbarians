@@ -1,0 +1,689 @@
+{
+  "ledger_head": "2d99210007af7309dde990bf02714e55715ea4316a4d25b002f7dbbbdb928903",
+  "proposals": 113,
+  "categories": {
+    "1": {
+      "name": "Continuity accuracy",
+      "automatic": {
+        "passed": 216,
+        "failed": 10,
+        "opportunities": 226,
+        "pass_rate": 0.9557522123893806
+      },
+      "human": {
+        "pass": 0,
+        "fail": 0,
+        "uncertain": 0,
+        "decided": 0,
+        "pass_rate": null
+      },
+      "human_reviews": [],
+      "status": "human_review_pending"
+    },
+    "2": {
+      "name": "World-state accuracy",
+      "automatic": {
+        "passed": 339,
+        "failed": 0,
+        "opportunities": 339,
+        "pass_rate": 1.0
+      },
+      "human": {
+        "pass": 0,
+        "fail": 0,
+        "uncertain": 0,
+        "decided": 0,
+        "pass_rate": null
+      },
+      "human_reviews": [],
+      "status": "human_review_pending"
+    },
+    "3": {
+      "name": "Rules fidelity and ruling consistency",
+      "automatic": {
+        "passed": 0,
+        "failed": 0,
+        "opportunities": 0,
+        "pass_rate": null
+      },
+      "human": {
+        "pass": 0,
+        "fail": 0,
+        "uncertain": 0,
+        "decided": 0,
+        "pass_rate": null
+      },
+      "human_reviews": [],
+      "status": "human_review_pending"
+    },
+    "4": {
+      "name": "NPC knowledge boundaries",
+      "automatic": {
+        "passed": 0,
+        "failed": 0,
+        "opportunities": 0,
+        "pass_rate": null
+      },
+      "human": {
+        "pass": 0,
+        "fail": 0,
+        "uncertain": 0,
+        "decided": 0,
+        "pass_rate": null
+      },
+      "human_reviews": [],
+      "status": "human_review_pending"
+    },
+    "5": {
+      "name": "Multi-agent/faction consistency",
+      "automatic": {
+        "passed": 0,
+        "failed": 0,
+        "opportunities": 0,
+        "pass_rate": null
+      },
+      "human": {
+        "pass": 0,
+        "fail": 0,
+        "uncertain": 0,
+        "decided": 0,
+        "pass_rate": null
+      },
+      "human_reviews": [],
+      "status": "human_review_pending"
+    },
+    "6": {
+      "name": "Long-range causal consistency",
+      "automatic": {
+        "passed": 226,
+        "failed": 0,
+        "opportunities": 226,
+        "pass_rate": 1.0
+      },
+      "human": {
+        "pass": 0,
+        "fail": 0,
+        "uncertain": 0,
+        "decided": 0,
+        "pass_rate": null
+      },
+      "human_reviews": [],
+      "status": "human_review_pending"
+    },
+    "7": {
+      "name": "Recovery from interruption or correction",
+      "automatic": {
+        "passed": 107,
+        "failed": 6,
+        "opportunities": 113,
+        "pass_rate": 0.9469026548672567
+      },
+      "human": {
+        "pass": 0,
+        "fail": 0,
+        "uncertain": 0,
+        "decided": 0,
+        "pass_rate": null
+      },
+      "human_reviews": [],
+      "status": "human_review_pending"
+    },
+    "8": {
+      "name": "Improvisational coherence",
+      "automatic": {
+        "passed": 0,
+        "failed": 0,
+        "opportunities": 0,
+        "pass_rate": null
+      },
+      "human": {
+        "pass": 0,
+        "fail": 0,
+        "uncertain": 0,
+        "decided": 0,
+        "pass_rate": null
+      },
+      "human_reviews": [],
+      "status": "human_review_pending"
+    },
+    "9": {
+      "name": "Resistance to player-induced contradictions",
+      "automatic": {
+        "passed": 0,
+        "failed": 0,
+        "opportunities": 0,
+        "pass_rate": null
+      },
+      "human": {
+        "pass": 0,
+        "fail": 0,
+        "uncertain": 0,
+        "decided": 0,
+        "pass_rate": null
+      },
+      "human_reviews": [],
+      "status": "human_review_pending"
+    },
+    "10": {
+      "name": "Overall campaign coherence",
+      "automatic": {
+        "passed": 0,
+        "failed": 0,
+        "opportunities": 0,
+        "pass_rate": null
+      },
+      "human": {
+        "pass": 0,
+        "fail": 0,
+        "uncertain": 0,
+        "decided": 0,
+        "pass_rate": null
+      },
+      "human_reviews": [],
+      "status": "human_review_pending"
+    }
+  },
+  "by_session": {
+    "1": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "2": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "3": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "4": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "5": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "6": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "7": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "8": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "9": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "10": {
+      "proposals": 2,
+      "automatic_passed": 15,
+      "automatic_failed": 1
+    },
+    "11": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "12": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "13": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "14": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "15": {
+      "proposals": 2,
+      "automatic_passed": 15,
+      "automatic_failed": 1
+    },
+    "16": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "17": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "18": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "19": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "20": {
+      "proposals": 2,
+      "automatic_passed": 15,
+      "automatic_failed": 1
+    },
+    "21": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "22": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "23": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "24": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "25": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "26": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "27": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "28": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "29": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "30": {
+      "proposals": 2,
+      "automatic_passed": 14,
+      "automatic_failed": 2
+    },
+    "31": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "32": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "33": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "34": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "35": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "36": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "37": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "38": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "39": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "40": {
+      "proposals": 2,
+      "automatic_passed": 15,
+      "automatic_failed": 1
+    },
+    "41": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "42": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "43": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "44": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "45": {
+      "proposals": 2,
+      "automatic_passed": 15,
+      "automatic_failed": 1
+    },
+    "46": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "47": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "48": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "49": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "50": {
+      "proposals": 2,
+      "automatic_passed": 15,
+      "automatic_failed": 1
+    },
+    "51": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "52": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "53": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "54": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "55": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "56": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "57": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "58": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "59": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "60": {
+      "proposals": 2,
+      "automatic_passed": 14,
+      "automatic_failed": 2
+    },
+    "61": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "62": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "63": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "64": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "65": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "66": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "67": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "68": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "69": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "70": {
+      "proposals": 2,
+      "automatic_passed": 15,
+      "automatic_failed": 1
+    },
+    "71": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "72": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "73": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "74": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "75": {
+      "proposals": 2,
+      "automatic_passed": 15,
+      "automatic_failed": 1
+    },
+    "76": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "77": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "78": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "79": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "80": {
+      "proposals": 2,
+      "automatic_passed": 15,
+      "automatic_failed": 1
+    },
+    "81": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "82": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "83": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "84": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "85": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "86": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "87": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "88": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "89": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "90": {
+      "proposals": 2,
+      "automatic_passed": 14,
+      "automatic_failed": 2
+    },
+    "91": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "92": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "93": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "94": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "95": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "96": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "97": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "98": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "99": {
+      "proposals": 1,
+      "automatic_passed": 8,
+      "automatic_failed": 0
+    },
+    "100": {
+      "proposals": 2,
+      "automatic_passed": 15,
+      "automatic_failed": 1
+    }
+  },
+  "warning": "Automatic scores cover explicit claims and structural invariants only. No overall model-quality score without independent semantic review. Demo is synthetic, not model performance."
+}

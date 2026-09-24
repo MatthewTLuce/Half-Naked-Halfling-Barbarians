@@ -1,0 +1,371 @@
+{
+  "facts": {
+    "clock.day": {
+      "audience": [
+        "public"
+      ],
+      "value": 100
+    },
+    "consequence.winter": {
+      "audience": [
+        "dm"
+      ],
+      "value": {
+        "cause": "seasonal cooling",
+        "question": "Have food, shelter or migration plans changed? No forced outcome.",
+        "review_day": 10,
+        "status": "pending"
+      }
+    },
+    "entity.mira.alive": {
+      "audience": [
+        "dm"
+      ],
+      "value": true
+    },
+    "entity.mira.exists": {
+      "audience": [
+        "public"
+      ],
+      "value": true
+    },
+    "entity.mira.goal": {
+      "audience": [
+        "dm"
+      ],
+      "value": "Keep the ferry operating and her debts private."
+    },
+    "entity.mira.location": {
+      "audience": [
+        "dm"
+      ],
+      "value": "reedbank"
+    },
+    "entity.orm.alive": {
+      "audience": [
+        "dm"
+      ],
+      "value": true
+    },
+    "entity.orm.exists": {
+      "audience": [
+        "public"
+      ],
+      "value": true
+    },
+    "entity.orm.goal": {
+      "audience": [
+        "dm"
+      ],
+      "value": "Protect mountain settlements without provoking a costly war."
+    },
+    "entity.orm.location": {
+      "audience": [
+        "dm"
+      ],
+      "value": "giant_homeland"
+    },
+    "entity.pc_ada.alive": {
+      "audience": [
+        "dm"
+      ],
+      "value": true
+    },
+    "entity.pc_ada.exists": {
+      "audience": [
+        "public"
+      ],
+      "value": true
+    },
+    "entity.pc_ada.goal": {
+      "audience": [
+        "dm"
+      ],
+      "value": "Player defined; ask before assigning motives."
+    },
+    "entity.pc_ada.hp": {
+      "audience": [
+        "dm",
+        "player:one",
+        "character:pc_ada"
+      ],
+      "value": 20
+    },
+    "entity.pc_ada.location": {
+      "audience": [
+        "dm",
+        "player:one",
+        "character:pc_ada"
+      ],
+      "value": "reedbank"
+    },
+    "entity.pc_bram.alive": {
+      "audience": [
+        "dm"
+      ],
+      "value": true
+    },
+    "entity.pc_bram.exists": {
+      "audience": [
+        "public"
+      ],
+      "value": true
+    },
+    "entity.pc_bram.goal": {
+      "audience": [
+        "dm"
+      ],
+      "value": "Player defined; ask before assigning motives."
+    },
+    "entity.pc_bram.hp": {
+      "audience": [
+        "dm",
+        "player:two",
+        "character:pc_bram"
+      ],
+      "value": 20
+    },
+    "entity.pc_bram.location": {
+      "audience": [
+        "dm",
+        "player:two",
+        "character:pc_bram"
+      ],
+      "value": "reedbank"
+    },
+    "entity.tavi.alive": {
+      "audience": [
+        "dm"
+      ],
+      "value": true
+    },
+    "entity.tavi.exists": {
+      "audience": [
+        "public"
+      ],
+      "value": true
+    },
+    "entity.tavi.goal": {
+      "audience": [
+        "dm"
+      ],
+      "value": "Secure winter grazing rights for several independent halfling clans."
+    },
+    "entity.tavi.location": {
+      "audience": [
+        "dm"
+      ],
+      "value": "ash_camp"
+    },
+    "faction.ferry_guild.goal": {
+      "audience": [
+        "dm"
+      ],
+      "value": "Collect tolls and keep commerce moving."
+    },
+    "faction.ferry_guild.members": {
+      "audience": [
+        "dm"
+      ],
+      "value": [
+        "mira"
+      ]
+    },
+    "faction.giant_council.members": {
+      "audience": [
+        "dm"
+      ],
+      "value": [
+        "orm"
+      ]
+    },
+    "faction.giant_council.policy": {
+      "audience": [
+        "dm"
+      ],
+      "value": "Defend settlements; hear trade petitions through local stewards."
+    },
+    "faction.giant_council.relationship.halfling_clans": {
+      "audience": [
+        "dm"
+      ],
+      "value": "uneasy trade"
+    },
+    "faction.giant_council.strength": {
+      "audience": [
+        "dm"
+      ],
+      "value": 35
+    },
+    "faction.giant_council.supplies": {
+      "audience": [
+        "dm"
+      ],
+      "value": 30
+    },
+    "faction.halfling_clans.members": {
+      "audience": [
+        "dm"
+      ],
+      "value": [
+        "tavi"
+      ]
+    },
+    "faction.halfling_clans.policy": {
+      "audience": [
+        "dm"
+      ],
+      "value": "Clans decide separately; Tavi cannot command a united army."
+    },
+    "faction.halfling_clans.relationship.giants": {
+      "audience": [
+        "dm"
+      ],
+      "value": "uneasy trade"
+    },
+    "faction.halfling_clans.strength": {
+      "audience": [
+        "dm"
+      ],
+      "value": 80
+    },
+    "faction.halfling_clans.supplies": {
+      "audience": [
+        "dm"
+      ],
+      "value": 6
+    },
+    "item.ferry_seal.description": {
+      "audience": [
+        "public"
+      ],
+      "value": "A mundane brass seal used for ferry cargo receipts. It grants no mountain authority."
+    },
+    "item.ferry_seal.owner": {
+      "audience": [
+        "dm"
+      ],
+      "value": "mira"
+    },
+    "knowledge.mira.debt": {
+      "audience": [
+        "dm",
+        "mira"
+      ],
+      "value": {
+        "belief": "Mira owes the ferry guild twelve silver coins.",
+        "claim": "secret.mira_debt",
+        "source": "genesis: personal debt"
+      }
+    },
+    "knowledge.orm.pass": {
+      "audience": [
+        "dm",
+        "orm"
+      ],
+      "value": {
+        "belief": "Snow has blocked the usual road; no report of another route.",
+        "claim": "route.high_pass_giant_homeland",
+        "source": "genesis: yesterday's patrol report"
+      }
+    },
+    "location.ash_camp.exists": {
+      "audience": [
+        "public"
+      ],
+      "value": true
+    },
+    "location.giant_homeland.exists": {
+      "audience": [
+        "public"
+      ],
+      "value": true
+    },
+    "location.high_pass.exists": {
+      "audience": [
+        "public"
+      ],
+      "value": true
+    },
+    "location.reedbank.exists": {
+      "audience": [
+        "public"
+      ],
+      "value": true
+    },
+    "promise.tavi_petition": {
+      "audience": [
+        "dm"
+      ],
+      "value": {
+        "due_day": null,
+        "recipient": "mira",
+        "speaker": "tavi",
+        "status": "conditional",
+        "terms": "Deliver a grazing petition if Mira finds a willing courier."
+      }
+    },
+    "route.high_pass_giant_homeland": {
+      "audience": [
+        "public"
+      ],
+      "value": {
+        "days": 3,
+        "from": "high_pass",
+        "status": "snowbound",
+        "to": "giant_homeland"
+      }
+    },
+    "route.reedbank_ash_camp": {
+      "audience": [
+        "public"
+      ],
+      "value": {
+        "days": 1,
+        "from": "reedbank",
+        "status": "open",
+        "to": "ash_camp"
+      }
+    },
+    "route.reedbank_high_pass": {
+      "audience": [
+        "public"
+      ],
+      "value": {
+        "days": 2,
+        "from": "reedbank",
+        "status": "open",
+        "to": "high_pass"
+      }
+    },
+    "ruling.authority": {
+      "audience": [
+        "public"
+      ],
+      "value": {
+        "basis": "benchmark world convention",
+        "decision": "A ferry receipt is not permission to cross a sovereign border.",
+        "scope": "political permissions"
+      }
+    },
+    "rumor.giant_raid": {
+      "audience": [
+        "public"
+      ],
+      "value": {
+        "source": "unidentified traveler",
+        "text": "Giants took halfling livestock last week.",
+        "truth": "unresolved"
+      }
+    },
+    "secret.mira_debt": {
+      "audience": [
+        "dm"
+      ],
+      "value": "Mira owes the ferry guild twelve silver coins."
+    }
+  },
+  "revision": 433,
+  "session": 100,
+  "epoch": 6
+}

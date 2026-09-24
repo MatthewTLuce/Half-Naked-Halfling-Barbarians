@@ -1,0 +1,47 @@
+{
+  "verified": true,
+  "commits": 100,
+  "explicit_claim_failures": [
+    {
+      "record": 40,
+      "key": "item.ferry_seal.owner"
+    },
+    {
+      "record": 85,
+      "key": "item.ferry_seal.owner"
+    },
+    {
+      "record": 128,
+      "key": "item.ferry_seal.owner"
+    },
+    {
+      "record": 170,
+      "key": "item.ferry_seal.owner"
+    },
+    {
+      "record": 215,
+      "key": "item.ferry_seal.owner"
+    },
+    {
+      "record": 258,
+      "key": "item.ferry_seal.owner"
+    },
+    {
+      "record": 300,
+      "key": "item.ferry_seal.owner"
+    },
+    {
+      "record": 345,
+      "key": "item.ferry_seal.owner"
+    },
+    {
+      "record": 388,
+      "key": "item.ferry_seal.owner"
+    },
+    {
+      "record": 430,
+      "key": "item.ferry_seal.owner"
+    }
+  ],
+  "semantic_review": "pending; structural verification is not campaign coherence"
+}

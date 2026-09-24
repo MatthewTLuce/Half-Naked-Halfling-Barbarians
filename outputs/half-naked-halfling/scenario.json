@@ -1,0 +1,383 @@
+{
+  "manifest": {
+    "title": "The Half-Naked Halfling Benchmark",
+    "version": "0.1.0",
+    "rules_edition": "D&D SRD 5.2.1; user-supplied PDF ingested locally",
+    "rules_source": "https://www.dndbeyond.com/srd",
+    "rules_coverage": "Structural ruling consistency only; no full combat or spell rules engine.",
+    "fixture_kind": "Original provisional demonstration setting, not a scripted adventure",
+    "clock_unit": "day; finer timestamps may be added explicitly",
+    "rng_seed": 1949,
+    "player_characters": "Two placeholders; finish character sheets before rules-fidelity trials",
+    "campaign_condition": "No invasion exists at genesis. Faction capability is potential, not intent.",
+    "consequence_policy": "Review due obligations as time advances; never auto-trigger a war.",
+    "rules_source_sha256": "8974902d109d6e63672d7c490bde9ccf052410503d9cfa768237154fbc5e3d87",
+    "rules_corpus": "rules/manifest.json"
+  },
+  "facts": {
+    "clock.day": {
+      "value": 0,
+      "audience": [
+        "public"
+      ]
+    },
+    "location.reedbank.exists": {
+      "value": true,
+      "audience": [
+        "public"
+      ]
+    },
+    "location.high_pass.exists": {
+      "value": true,
+      "audience": [
+        "public"
+      ]
+    },
+    "location.giant_homeland.exists": {
+      "value": true,
+      "audience": [
+        "public"
+      ]
+    },
+    "location.ash_camp.exists": {
+      "value": true,
+      "audience": [
+        "public"
+      ]
+    },
+    "route.reedbank_high_pass": {
+      "value": {
+        "from": "reedbank",
+        "to": "high_pass",
+        "days": 2,
+        "status": "open"
+      },
+      "audience": [
+        "public"
+      ]
+    },
+    "route.high_pass_giant_homeland": {
+      "value": {
+        "from": "high_pass",
+        "to": "giant_homeland",
+        "days": 3,
+        "status": "snowbound"
+      },
+      "audience": [
+        "public"
+      ]
+    },
+    "route.reedbank_ash_camp": {
+      "value": {
+        "from": "reedbank",
+        "to": "ash_camp",
+        "days": 1,
+        "status": "open"
+      },
+      "audience": [
+        "public"
+      ]
+    },
+    "entity.mira.exists": {
+      "value": true,
+      "audience": [
+        "public"
+      ]
+    },
+    "entity.mira.location": {
+      "value": "reedbank",
+      "audience": [
+        "dm"
+      ]
+    },
+    "entity.mira.alive": {
+      "value": true,
+      "audience": [
+        "dm"
+      ]
+    },
+    "entity.mira.goal": {
+      "value": "Keep the ferry operating and her debts private.",
+      "audience": [
+        "dm"
+      ]
+    },
+    "entity.orm.exists": {
+      "value": true,
+      "audience": [
+        "public"
+      ]
+    },
+    "entity.orm.location": {
+      "value": "giant_homeland",
+      "audience": [
+        "dm"
+      ]
+    },
+    "entity.orm.alive": {
+      "value": true,
+      "audience": [
+        "dm"
+      ]
+    },
+    "entity.orm.goal": {
+      "value": "Protect mountain settlements without provoking a costly war.",
+      "audience": [
+        "dm"
+      ]
+    },
+    "entity.tavi.exists": {
+      "value": true,
+      "audience": [
+        "public"
+      ]
+    },
+    "entity.tavi.location": {
+      "value": "ash_camp",
+      "audience": [
+        "dm"
+      ]
+    },
+    "entity.tavi.alive": {
+      "value": true,
+      "audience": [
+        "dm"
+      ]
+    },
+    "entity.tavi.goal": {
+      "value": "Secure winter grazing rights for several independent halfling clans.",
+      "audience": [
+        "dm"
+      ]
+    },
+    "entity.pc_ada.exists": {
+      "value": true,
+      "audience": [
+        "public"
+      ]
+    },
+    "entity.pc_ada.location": {
+      "value": "reedbank",
+      "audience": [
+        "dm",
+        "player:one",
+        "character:pc_ada"
+      ]
+    },
+    "entity.pc_ada.alive": {
+      "value": true,
+      "audience": [
+        "dm"
+      ]
+    },
+    "entity.pc_ada.goal": {
+      "value": "Player defined; ask before assigning motives.",
+      "audience": [
+        "dm"
+      ]
+    },
+    "entity.pc_bram.exists": {
+      "value": true,
+      "audience": [
+        "public"
+      ]
+    },
+    "entity.pc_bram.location": {
+      "value": "reedbank",
+      "audience": [
+        "dm",
+        "player:two",
+        "character:pc_bram"
+      ]
+    },
+    "entity.pc_bram.alive": {
+      "value": true,
+      "audience": [
+        "dm"
+      ]
+    },
+    "entity.pc_bram.goal": {
+      "value": "Player defined; ask before assigning motives.",
+      "audience": [
+        "dm"
+      ]
+    },
+    "entity.pc_ada.hp": {
+      "value": 20,
+      "audience": [
+        "dm",
+        "player:one",
+        "character:pc_ada"
+      ]
+    },
+    "entity.pc_bram.hp": {
+      "value": 20,
+      "audience": [
+        "dm",
+        "player:two",
+        "character:pc_bram"
+      ]
+    },
+    "item.ferry_seal.owner": {
+      "value": "mira",
+      "audience": [
+        "dm"
+      ]
+    },
+    "item.ferry_seal.description": {
+      "value": "A mundane brass seal used for ferry cargo receipts. It grants no mountain authority.",
+      "audience": [
+        "public"
+      ]
+    },
+    "faction.halfling_clans.members": {
+      "value": [
+        "tavi"
+      ],
+      "audience": [
+        "dm"
+      ]
+    },
+    "faction.halfling_clans.strength": {
+      "value": 80,
+      "audience": [
+        "dm"
+      ]
+    },
+    "faction.halfling_clans.supplies": {
+      "value": 6,
+      "audience": [
+        "dm"
+      ]
+    },
+    "faction.halfling_clans.policy": {
+      "value": "Clans decide separately; Tavi cannot command a united army.",
+      "audience": [
+        "dm"
+      ]
+    },
+    "faction.halfling_clans.relationship.giants": {
+      "value": "uneasy trade",
+      "audience": [
+        "dm"
+      ]
+    },
+    "faction.giant_council.members": {
+      "value": [
+        "orm"
+      ],
+      "audience": [
+        "dm"
+      ]
+    },
+    "faction.giant_council.strength": {
+      "value": 35,
+      "audience": [
+        "dm"
+      ]
+    },
+    "faction.giant_council.supplies": {
+      "value": 30,
+      "audience": [
+        "dm"
+      ]
+    },
+    "faction.giant_council.policy": {
+      "value": "Defend settlements; hear trade petitions through local stewards.",
+      "audience": [
+        "dm"
+      ]
+    },
+    "faction.giant_council.relationship.halfling_clans": {
+      "value": "uneasy trade",
+      "audience": [
+        "dm"
+      ]
+    },
+    "faction.ferry_guild.members": {
+      "value": [
+        "mira"
+      ],
+      "audience": [
+        "dm"
+      ]
+    },
+    "faction.ferry_guild.goal": {
+      "value": "Collect tolls and keep commerce moving.",
+      "audience": [
+        "dm"
+      ]
+    },
+    "secret.mira_debt": {
+      "value": "Mira owes the ferry guild twelve silver coins.",
+      "audience": [
+        "dm"
+      ]
+    },
+    "knowledge.mira.debt": {
+      "value": {
+        "claim": "secret.mira_debt",
+        "belief": "Mira owes the ferry guild twelve silver coins.",
+        "source": "genesis: personal debt"
+      },
+      "audience": [
+        "dm",
+        "mira"
+      ]
+    },
+    "knowledge.orm.pass": {
+      "value": {
+        "claim": "route.high_pass_giant_homeland",
+        "belief": "Snow has blocked the usual road; no report of another route.",
+        "source": "genesis: yesterday's patrol report"
+      },
+      "audience": [
+        "dm",
+        "orm"
+      ]
+    },
+    "rumor.giant_raid": {
+      "value": {
+        "text": "Giants took halfling livestock last week.",
+        "truth": "unresolved",
+        "source": "unidentified traveler"
+      },
+      "audience": [
+        "public"
+      ]
+    },
+    "promise.tavi_petition": {
+      "value": {
+        "speaker": "tavi",
+        "recipient": "mira",
+        "terms": "Deliver a grazing petition if Mira finds a willing courier.",
+        "status": "conditional",
+        "due_day": null
+      },
+      "audience": [
+        "dm"
+      ]
+    },
+    "consequence.winter": {
+      "value": {
+        "status": "pending",
+        "review_day": 10,
+        "cause": "seasonal cooling",
+        "question": "Have food, shelter or migration plans changed? No forced outcome."
+      },
+      "audience": [
+        "dm"
+      ]
+    },
+    "ruling.authority": {
+      "value": {
+        "scope": "political permissions",
+        "decision": "A ferry receipt is not permission to cross a sovereign border.",
+        "basis": "benchmark world convention"
+      },
+      "audience": [
+        "public"
+      ]
+    }
+  }
+}

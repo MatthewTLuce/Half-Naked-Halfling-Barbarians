@@ -1,0 +1,30 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>SRD ingestion report</title><style>body{max-width:900px;margin:40px auto;padding:0 24px;font:17px/1.6 system-ui;background:#f7f4ed;color:#243033}pre{white-space:pre-wrap;overflow-wrap:anywhere;font:inherit}a{color:#245e61}</style><h1>SRD 5.2.1 is ready for reference</h1><p><a href="SRD_CC_v5.2.1.pdf">Original PDF</a> · <a href="fulltext.txt">Complete extracted text</a> · <a href="manifest.json">Integrity manifest</a> · <a href="../README.md">Harness commands</a></p><pre># SRD 5.2.1 ingestion report
+
+Status: extracted, indexed, integrity-checked, and connected to the harness as selectable reference packets. This is not conversion into a complete executable rules engine.
+
+- Source: user-supplied `SRD_CC_v5.2.1.pdf`; original copy unchanged.
+- Pages: 364 physical PDF pages; embedded page labels 1–364.
+- PDF SHA-256: `8974902d109d6e63672d7c490bde9ccf052410503d9cfa768237154fbc5e3d87`.
+- Extraction SHA-256: `babd228b75205b4ac17e4d8284710470521f39f56a630e8b02b4268f20a93b34`.
+- Nonempty page records: 364; replacement-character count: 0.
+- Contents entries: 478 parsed source lines; titles preserve extraction artifacts.
+- Visual sample: pages 7, 29 and 364, including two-column prose, class features and creature stat blocks. Other pages mechanically checked, not individually visually reviewed.
+- Tests: 31 passed, including source tampering, page bounds, class-specific rules, search headings, restart persistence, packet replacement, pin mismatch and stale-proposal rejection.
+
+## Deliverables
+
+- `SRD_CC_v5.2.1.pdf`: original reference and layout authority.
+- `pages.jsonl`: one record per page with stable `SRD521:pNNN` citation, PDF page, label, extracted text and text hash.
+- `fulltext.txt`: complete human-readable extraction with page delimiters.
+- `contents.json`: navigational contents entries; not inferred semantic rule boundaries.
+- `manifest.json`: edition, hashes, extraction method, trust boundary and QA scope.
+- `ATTRIBUTION.md`: required attribution and transformation notice.
+
+## Meaning of ingestion
+
+The DM can receive source pages through `hnh.py rules --pages ... --reviewer ...`. That selection is permanently logged and present in subsequent DM context and request traces. The independent evaluator receives the same logged packet. No memory-only assumption is required.
+
+An ingestion pass does not prove that all rules are correctly interpreted or automated. Search can miss synonyms and related exceptions. Extracted tables or hyphenated terms may require visual checking. The unchanged PDF resolves ambiguity. No source instructions are executed, no existing campaign history was rewritten, and no live API request was made.
+
+This work includes material from the System Reference Document 5.2.1 (“SRD 5.2.1”) by Wizards of the Coast LLC, available at https://www.dndbeyond.com/srd. The SRD 5.2.1 is licensed under the Creative Commons Attribution 4.0 International License, available at https://creativecommons.org/licenses/by/4.0/legalcode.
+</pre></html>

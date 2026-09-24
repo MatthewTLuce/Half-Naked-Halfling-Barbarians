@@ -1,0 +1,2870 @@
+[
+  {
+    "title": "Legal Information",
+    "pdf_page": 1,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Playing the Game",
+    "pdf_page": 5,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Rhythm of Play",
+    "pdf_page": 5,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "The Six Abilities",
+    "pdf_page": 5,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "D20 Test s",
+    "pdf_page": 6,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Ability Checks",
+    "pdf_page": 6,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Saving Throws",
+    "pdf_page": 7,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Attack Rolls",
+    "pdf_page": 7,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Advantage/Disadvantage",
+    "pdf_page": 7,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Proficiency",
+    "pdf_page": 8,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Actions",
+    "pdf_page": 9,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Bonus Actions",
+    "pdf_page": 10,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Reactions",
+    "pdf_page": 10,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Social Interaction",
+    "pdf_page": 10,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Exploration",
+    "pdf_page": 11,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Vision and Light",
+    "pdf_page": 11,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Hiding",
+    "pdf_page": 11,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Interacting with Objects",
+    "pdf_page": 11,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Hazards",
+    "pdf_page": 12,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Travel",
+    "pdf_page": 12,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Combat",
+    "pdf_page": 13,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "The Order of Combat",
+    "pdf_page": 13,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Movement and Position",
+    "pdf_page": 14,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Making an Attack",
+    "pdf_page": 14,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Ranged Attacks",
+    "pdf_page": 15,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Melee Attacks",
+    "pdf_page": 15,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Mounted Combat",
+    "pdf_page": 15,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Underwater Combat",
+    "pdf_page": 16,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Damage and Healing",
+    "pdf_page": 16,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Hit Points",
+    "pdf_page": 16,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Damage Rolls",
+    "pdf_page": 16,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Critical Hits",
+    "pdf_page": 16,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Saving Throws and Damage",
+    "pdf_page": 16,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Damage Types",
+    "pdf_page": 16,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Resistance and Vulnerability",
+    "pdf_page": 17,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Immunity",
+    "pdf_page": 17,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Healing",
+    "pdf_page": 17,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Dropping to 0 Hit Points",
+    "pdf_page": 17,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Temporary Hit Points",
+    "pdf_page": 18,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Character Creation",
+    "pdf_page": 19,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Choose a Character Sheet",
+    "pdf_page": 19,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Create Your Character",
+    "pdf_page": 19,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Level Advancement",
+    "pdf_page": 23,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Starting at Higher Levels",
+    "pdf_page": 24,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Multiclassing",
+    "pdf_page": 24,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Trinkets",
+    "pdf_page": 26,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Classes",
+    "pdf_page": 28,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Barbarian",
+    "pdf_page": 28,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Path of the Berserker",
+    "pdf_page": 30,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Bard",
+    "pdf_page": 31,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Bard Spell List",
+    "pdf_page": 33,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "College of Lore",
+    "pdf_page": 35,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Cleric",
+    "pdf_page": 36,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Cleric Spell List",
+    "pdf_page": 38,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Cleric Subclass: Life Domain",
+    "pdf_page": 40,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Druid",
+    "pdf_page": 41,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Druid Spell List",
+    "pdf_page": 44,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Circle of the Land",
+    "pdf_page": 46,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Fighter",
+    "pdf_page": 47,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Fighter Subclass: Champion",
+    "pdf_page": 49,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Monk",
+    "pdf_page": 49,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Hand",
+    "pdf_page": 52,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Paladin",
+    "pdf_page": 53,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Paladin Spell List",
+    "pdf_page": 55,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Ranger",
+    "pdf_page": 57,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Ranger Spell List",
+    "pdf_page": 60,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Ranger Subclass: Hunter",
+    "pdf_page": 61,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Rogue",
+    "pdf_page": 61,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Rogue Subclass: Thief",
+    "pdf_page": 64,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Sorcerer",
+    "pdf_page": 64,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Metamagic Options",
+    "pdf_page": 66,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Sorcerer Spell List",
+    "pdf_page": 67,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Warlock",
+    "pdf_page": 70,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Eldritch Invocation Options",
+    "pdf_page": 72,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Warlock Spell List",
+    "pdf_page": 74,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Warlock Subclass: Fiend Patron",
+    "pdf_page": 76,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Wizard",
+    "pdf_page": 77,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Wizard Spell List",
+    "pdf_page": 79,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Wizard Subclass: Evoker",
+    "pdf_page": 82,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Character Origins",
+    "pdf_page": 83,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Character Backgrounds",
+    "pdf_page": 83,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Acolyte",
+    "pdf_page": 83,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Criminal",
+    "pdf_page": 83,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Sage",
+    "pdf_page": 83,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Soldier",
+    "pdf_page": 83,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Character Species",
+    "pdf_page": 83,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Dragonborn",
+    "pdf_page": 84,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Dwarf",
+    "pdf_page": 84,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Elf",
+    "pdf_page": 84,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Gnome",
+    "pdf_page": 85,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Goliath",
+    "pdf_page": 85,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Halfling",
+    "pdf_page": 86,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Human",
+    "pdf_page": 86,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Orc",
+    "pdf_page": 86,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Tiefling",
+    "pdf_page": 86,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Feats",
+    "pdf_page": 87,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Feat Descriptions",
+    "pdf_page": 87,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Origin Feats",
+    "pdf_page": 87,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "General Feats",
+    "pdf_page": 87,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Fighting Style Feats",
+    "pdf_page": 87,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Epic Boon Feats",
+    "pdf_page": 88,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Equipment",
+    "pdf_page": 89,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Coins",
+    "pdf_page": 89,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Weapons",
+    "pdf_page": 89,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Properties",
+    "pdf_page": 89,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Mastery Properties",
+    "pdf_page": 90,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Armor",
+    "pdf_page": 92,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Tools",
+    "pdf_page": 93,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Adventuring Gear",
+    "pdf_page": 94,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Mounts and Vehicles",
+    "pdf_page": 100,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Lifestyle Expenses",
+    "pdf_page": 101,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Food, Drink, and Lodging",
+    "pdf_page": 101,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Hirelings",
+    "pdf_page": 102,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Spellcasting",
+    "pdf_page": 102,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Magic Items",
+    "pdf_page": 102,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Crafting Nonmagical Items",
+    "pdf_page": 103,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Brewing Potions of Healing",
+    "pdf_page": 103,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Scribing Spell Scrolls",
+    "pdf_page": 103,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Spells",
+    "pdf_page": 104,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Gaining Spells",
+    "pdf_page": 104,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Casting Spells",
+    "pdf_page": 104,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Spell Descriptions",
+    "pdf_page": 107,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Rules Glossary",
+    "pdf_page": 176,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Gameplay Toolbox",
+    "pdf_page": 192,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Travel Pace",
+    "pdf_page": 192,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Creating a Background",
+    "pdf_page": 192,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Curses and Magical Contagions",
+    "pdf_page": 193,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Environmental Effects",
+    "pdf_page": 195,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Fear and Mental Stress",
+    "pdf_page": 196,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Poison",
+    "pdf_page": 197,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Traps",
+    "pdf_page": 199,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Combat Encounters",
+    "pdf_page": 202,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Magic Items",
+    "pdf_page": 204,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Magic Item Categories",
+    "pdf_page": 204,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Magic Item Rarity",
+    "pdf_page": 205,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Activating a Magic Item",
+    "pdf_page": 206,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "“The Next Dawn”",
+    "pdf_page": 206,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Cursed Items",
+    "pdf_page": 206,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Magic Item Resilience",
+    "pdf_page": 206,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Crafting Magic Items",
+    "pdf_page": 206,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Sentient Magic Items",
+    "pdf_page": 207,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Magic Items A–Z",
+    "pdf_page": 209,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Monsters",
+    "pdf_page": 254,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Stat Block Overview",
+    "pdf_page": 254,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Parts of a Stat Block",
+    "pdf_page": 254,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Running a Monster",
+    "pdf_page": 255,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Monsters A–Z",
+    "pdf_page": 258,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Animals",
+    "pdf_page": 344,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Aboleth",
+    "pdf_page": 258,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Adult Black Dragon",
+    "pdf_page": 264,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Adult Blue Dragon",
+    "pdf_page": 266,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Adult Brass Dragon",
+    "pdf_page": 268,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Adult Bronze Dragon",
+    "pdf_page": 270,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Adult Copper Dragon",
+    "pdf_page": 276,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Adult Gold Dragon",
+    "pdf_page": 291,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Adult Green Dragon",
+    "pdf_page": 294,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Adult Red Dragon",
+    "pdf_page": 318,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Adult Silver Dragon",
+    "pdf_page": 324,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Adult White Dragon",
+    "pdf_page": 340,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Air Elemental",
+    "pdf_page": 258,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Allosaurus",
+    "pdf_page": 344,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Ancient Black Dragon",
+    "pdf_page": 265,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Ancient Blue Dragon",
+    "pdf_page": 267,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Ancient Brass Dragon",
+    "pdf_page": 269,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Ancient Bronze Dragon",
+    "pdf_page": 271,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Ancient Copper Dragon",
+    "pdf_page": 277,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Ancient Gold Dragon",
+    "pdf_page": 292,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Ancient Green Dragon",
+    "pdf_page": 294,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Ancient Red Dragon",
+    "pdf_page": 319,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Ancient Silver Dragon",
+    "pdf_page": 325,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Ancient White Dragon",
+    "pdf_page": 341,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Animated Armor",
+    "pdf_page": 259,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Animated Flying Sword",
+    "pdf_page": 259,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Animated Rug of Smothering",
+    "pdf_page": 259,
+    "toc_pdf_page": 2,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Ankheg",
+    "pdf_page": 259,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Ankylosaurus",
+    "pdf_page": 344,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Ape",
+    "pdf_page": 344,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Archelon",
+    "pdf_page": 344,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Archmage",
+    "pdf_page": 305,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Assassin",
+    "pdf_page": 260,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Awakened Shrub",
+    "pdf_page": 260,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Awakened Tree",
+    "pdf_page": 260,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Axe Beak",
+    "pdf_page": 260,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Azer Sentinel",
+    "pdf_page": 261,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Baboon",
+    "pdf_page": 345,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Badger",
+    "pdf_page": 345,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Balor",
+    "pdf_page": 261,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Bandit",
+    "pdf_page": 261,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Bandit Captain",
+    "pdf_page": 261,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Barbed Devil",
+    "pdf_page": 262,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Basilisk",
+    "pdf_page": 262,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Bat",
+    "pdf_page": 345,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Bearded Devil",
+    "pdf_page": 262,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Behir",
+    "pdf_page": 263,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Berserker",
+    "pdf_page": 263,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Black Bear",
+    "pdf_page": 345,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Black Dragon Wyrmling",
+    "pdf_page": 263,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Black Pudding",
+    "pdf_page": 265,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Blink Dog",
+    "pdf_page": 266,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Blood Hawk",
+    "pdf_page": 345,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Blue Dragon Wyrmling",
+    "pdf_page": 266,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Boar",
+    "pdf_page": 346,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Bone Devil",
+    "pdf_page": 267,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Brass Dragon Wyrmling",
+    "pdf_page": 268,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Bronze Dragon Wyrmling",
+    "pdf_page": 269,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Brown Bear",
+    "pdf_page": 346,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Bugbear Stalker",
+    "pdf_page": 271,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Bugbear Warrior",
+    "pdf_page": 272,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Bulette",
+    "pdf_page": 272,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Camel",
+    "pdf_page": 346,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Cat",
+    "pdf_page": 346,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Centaur Trooper",
+    "pdf_page": 272,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Chain Devil",
+    "pdf_page": 272,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Chimera",
+    "pdf_page": 273,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Chuul",
+    "pdf_page": 273,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Clay Golem",
+    "pdf_page": 274,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Cloaker",
+    "pdf_page": 274,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Cloud Giant",
+    "pdf_page": 275,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Cockatrice",
+    "pdf_page": 275,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Commoner",
+    "pdf_page": 275,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Constrictor Snake",
+    "pdf_page": 346,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Copper Dragon Wyrmling",
+    "pdf_page": 275,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Couatl",
+    "pdf_page": 277,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Crab",
+    "pdf_page": 347,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Crocodile",
+    "pdf_page": 347,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Cultist",
+    "pdf_page": 278,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Cultist Fanatic",
+    "pdf_page": 278,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Darkmantle",
+    "pdf_page": 278,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Death Dog",
+    "pdf_page": 279,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Deer",
+    "pdf_page": 347,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Deva",
+    "pdf_page": 279,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Dire Wolf",
+    "pdf_page": 347,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Djinni",
+    "pdf_page": 280,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Doppelganger",
+    "pdf_page": 280,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Draft Horse",
+    "pdf_page": 347,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Dragon Tur t le",
+    "pdf_page": 281,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Dretch",
+    "pdf_page": 281,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Drider",
+    "pdf_page": 281,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Druid",
+    "pdf_page": 282,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Dryad",
+    "pdf_page": 282,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Dust Mephit",
+    "pdf_page": 307,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Eagle",
+    "pdf_page": 348,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Earth Elemental",
+    "pdf_page": 282,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Efreeti",
+    "pdf_page": 283,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Elephant",
+    "pdf_page": 348,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Elk",
+    "pdf_page": 348,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Erinyes",
+    "pdf_page": 283,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Ettercap",
+    "pdf_page": 284,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Ettin",
+    "pdf_page": 284,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Fire Elemental",
+    "pdf_page": 284,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Fire Giant",
+    "pdf_page": 285,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Flesh Golem",
+    "pdf_page": 285,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Flying Snake",
+    "pdf_page": 348,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Frog",
+    "pdf_page": 348,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Frost Giant",
+    "pdf_page": 285,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Gargoyle",
+    "pdf_page": 286,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Gelatinous Cube",
+    "pdf_page": 286,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Ghast",
+    "pdf_page": 287,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Ghost",
+    "pdf_page": 287,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Ghoul",
+    "pdf_page": 288,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Giant Ape",
+    "pdf_page": 349,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Giant Badger",
+    "pdf_page": 349,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Giant Bat",
+    "pdf_page": 349,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Giant Boar",
+    "pdf_page": 349,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Giant Centipede",
+    "pdf_page": 349,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Giant Constrictor Snake",
+    "pdf_page": 350,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Giant Crab",
+    "pdf_page": 350,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Giant Crocodile",
+    "pdf_page": 350,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Giant Eagle",
+    "pdf_page": 350,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Giant Elk",
+    "pdf_page": 351,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Giant Fire Beetle",
+    "pdf_page": 351,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Giant Frog",
+    "pdf_page": 351,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Giant Goat",
+    "pdf_page": 351,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Giant Hyena",
+    "pdf_page": 352,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Giant Lizard",
+    "pdf_page": 352,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Giant Octopus",
+    "pdf_page": 352,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Giant Owl",
+    "pdf_page": 352,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Giant Rat",
+    "pdf_page": 353,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Giant Scorpion",
+    "pdf_page": 353,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Giant Seahorse",
+    "pdf_page": 353,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Giant Shark",
+    "pdf_page": 353,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Giant Spider",
+    "pdf_page": 353,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Giant Toad",
+    "pdf_page": 354,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Giant Venomous Snake",
+    "pdf_page": 354,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Giant Vulture",
+    "pdf_page": 354,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Giant Wasp",
+    "pdf_page": 354,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Giant Weasel",
+    "pdf_page": 355,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Giant Wolf Spider",
+    "pdf_page": 355,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Gibbering Mouther",
+    "pdf_page": 288,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Glabrezu",
+    "pdf_page": 289,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Gladiator",
+    "pdf_page": 289,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Gnoll Warrior",
+    "pdf_page": 289,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Goat",
+    "pdf_page": 355,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Goblin Boss",
+    "pdf_page": 290,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Goblin Minion",
+    "pdf_page": 290,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Goblin Warrior",
+    "pdf_page": 290,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Gold Dragon Wyrmling",
+    "pdf_page": 290,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Gorgon",
+    "pdf_page": 292,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Gray Ooze",
+    "pdf_page": 293,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Green Dragon Wyrmling",
+    "pdf_page": 293,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Green Hag",
+    "pdf_page": 295,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Grick",
+    "pdf_page": 295,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Griffon",
+    "pdf_page": 295,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Grimlock",
+    "pdf_page": 296,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Guard",
+    "pdf_page": 296,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Guard Captain",
+    "pdf_page": 296,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Guardian Naga",
+    "pdf_page": 296,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Half-Dragon",
+    "pdf_page": 297,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Harpy",
+    "pdf_page": 297,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Hawk",
+    "pdf_page": 355,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Hell Hound",
+    "pdf_page": 297,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Hezrou",
+    "pdf_page": 298,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Hill Giant",
+    "pdf_page": 298,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Hippogriff",
+    "pdf_page": 298,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Hippopotamus",
+    "pdf_page": 355,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Hobgoblin Captain",
+    "pdf_page": 299,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Hobgoblin Warrior",
+    "pdf_page": 298,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Homunculus",
+    "pdf_page": 299,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Horned Devil",
+    "pdf_page": 299,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Hunter Shark",
+    "pdf_page": 356,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Hydra",
+    "pdf_page": 300,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Hyena",
+    "pdf_page": 356,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Ice Devil",
+    "pdf_page": 300,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Ice Mephit",
+    "pdf_page": 307,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Imp",
+    "pdf_page": 300,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Incubus",
+    "pdf_page": 301,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Invisible Stalker",
+    "pdf_page": 301,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Iron Golem",
+    "pdf_page": 302,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Jackal",
+    "pdf_page": 356,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Killer Whale",
+    "pdf_page": 356,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Knight",
+    "pdf_page": 302,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Kobold Warrior",
+    "pdf_page": 302,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Kraken",
+    "pdf_page": 303,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Lamia",
+    "pdf_page": 303,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Lemure",
+    "pdf_page": 304,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Lich",
+    "pdf_page": 304,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Lion",
+    "pdf_page": 356,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Lizard",
+    "pdf_page": 357,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Mage",
+    "pdf_page": 305,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Magma Mephit",
+    "pdf_page": 307,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Magmin",
+    "pdf_page": 305,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Mammoth",
+    "pdf_page": 357,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Manticore",
+    "pdf_page": 306,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Marilith",
+    "pdf_page": 306,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Mastiff",
+    "pdf_page": 357,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Medusa",
+    "pdf_page": 306,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Merfolk Skirmisher",
+    "pdf_page": 308,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Merrow",
+    "pdf_page": 308,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Mimic",
+    "pdf_page": 308,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Minotaur of Baphomet",
+    "pdf_page": 309,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Minotaur Skeleton",
+    "pdf_page": 326,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Mule",
+    "pdf_page": 357,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Mummy",
+    "pdf_page": 309,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Mummy Lord",
+    "pdf_page": 309,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Nalfeshnee",
+    "pdf_page": 310,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Night Hag",
+    "pdf_page": 311,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Nightmare",
+    "pdf_page": 311,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Noble",
+    "pdf_page": 312,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Ochre Jelly",
+    "pdf_page": 312,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Octopus",
+    "pdf_page": 357,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Ogre",
+    "pdf_page": 312,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Ogre Zombie",
+    "pdf_page": 344,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Oni",
+    "pdf_page": 312,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Otyugh",
+    "pdf_page": 313,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Owl",
+    "pdf_page": 358,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Owlbear",
+    "pdf_page": 313,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Panther",
+    "pdf_page": 358,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Pegasus",
+    "pdf_page": 313,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Phase Spider",
+    "pdf_page": 313,
+    "toc_pdf_page": 3,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Piranha",
+    "pdf_page": 358,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Pirate",
+    "pdf_page": 314,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Pirate Captain",
+    "pdf_page": 314,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Pit Fiend",
+    "pdf_page": 314,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Planetar",
+    "pdf_page": 315,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Plesiosaurus",
+    "pdf_page": 358,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Polar Bear",
+    "pdf_page": 359,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Pony",
+    "pdf_page": 359,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Priest",
+    "pdf_page": 316,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Priest Acolyte",
+    "pdf_page": 316,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Pseudodragon",
+    "pdf_page": 316,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Pteranodon",
+    "pdf_page": 359,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Purple Worm",
+    "pdf_page": 316,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Quasit",
+    "pdf_page": 317,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Rakshasa",
+    "pdf_page": 317,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Rat",
+    "pdf_page": 359,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Raven",
+    "pdf_page": 359,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Red Dragon Wyrmling",
+    "pdf_page": 318,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Reef Shark",
+    "pdf_page": 360,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Remorhaz",
+    "pdf_page": 319,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Rhinoceros",
+    "pdf_page": 360,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Riding Horse",
+    "pdf_page": 360,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Roc",
+    "pdf_page": 320,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Roper",
+    "pdf_page": 320,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Rust Monster",
+    "pdf_page": 320,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Saber-Toothed Tiger",
+    "pdf_page": 360,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Sahuagin Warrior",
+    "pdf_page": 321,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Salamander",
+    "pdf_page": 321,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Satyr",
+    "pdf_page": 321,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Scorpion",
+    "pdf_page": 360,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Scout",
+    "pdf_page": 322,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Sea Hag",
+    "pdf_page": 322,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Seahorse",
+    "pdf_page": 361,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Shadow",
+    "pdf_page": 322,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Shambling Mound",
+    "pdf_page": 323,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Shield Guardian",
+    "pdf_page": 323,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Shrieker Fungus",
+    "pdf_page": 286,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Silver Dragon Wyrmling",
+    "pdf_page": 324,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Skeleton",
+    "pdf_page": 325,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Solar",
+    "pdf_page": 326,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Specter",
+    "pdf_page": 327,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Sphinx of Lore",
+    "pdf_page": 327,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Sphinx of Valor",
+    "pdf_page": 328,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Sphinx of Wonder",
+    "pdf_page": 327,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Spider",
+    "pdf_page": 361,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Spirit Naga",
+    "pdf_page": 329,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Sprite",
+    "pdf_page": 329,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Spy",
+    "pdf_page": 329,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Steam Mephit",
+    "pdf_page": 308,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Stirge",
+    "pdf_page": 329,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Stone Giant",
+    "pdf_page": 330,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Stone Golem",
+    "pdf_page": 330,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Storm Giant",
+    "pdf_page": 330,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Succubus",
+    "pdf_page": 331,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Swarm of Bats",
+    "pdf_page": 361,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Swarm of Crawling Claws",
+    "pdf_page": 278,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Swarm of Insects",
+    "pdf_page": 361,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Swarm of Piranhas",
+    "pdf_page": 362,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Swarm of Rats",
+    "pdf_page": 362,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Swarm of Ravens",
+    "pdf_page": 362,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Swarm of Venomous Snakes",
+    "pdf_page": 362,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Tarrasque",
+    "pdf_page": 331,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Tiger",
+    "pdf_page": 363,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Tough",
+    "pdf_page": 332,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Tough Boss",
+    "pdf_page": 332,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Treant",
+    "pdf_page": 333,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Triceratops",
+    "pdf_page": 363,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Troll",
+    "pdf_page": 333,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Troll Limb",
+    "pdf_page": 333,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Tyrannosaurus Rex",
+    "pdf_page": 363,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Unicorn",
+    "pdf_page": 334,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Vampire",
+    "pdf_page": 335,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Vampire Familiar",
+    "pdf_page": 334,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Vampire Spawn",
+    "pdf_page": 334,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Venomous Snake",
+    "pdf_page": 363,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Violet Fungus",
+    "pdf_page": 286,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Vrock",
+    "pdf_page": 336,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Vulture",
+    "pdf_page": 363,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Warhorse",
+    "pdf_page": 364,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Warhorse Skeleton",
+    "pdf_page": 326,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Warrior Infantry",
+    "pdf_page": 336,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Warrior Veteran",
+    "pdf_page": 337,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Water Elemental",
+    "pdf_page": 337,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Weasel",
+    "pdf_page": 364,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Werebear",
+    "pdf_page": 337,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Wereboar",
+    "pdf_page": 338,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Wererat",
+    "pdf_page": 338,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Weretiger",
+    "pdf_page": 339,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Werewolf",
+    "pdf_page": 339,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "White Dragon Wyrmling",
+    "pdf_page": 339,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Wight",
+    "pdf_page": 341,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Will-o’-Wisp",
+    "pdf_page": 341,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Winter Wolf",
+    "pdf_page": 342,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Wolf",
+    "pdf_page": 364,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Worg",
+    "pdf_page": 342,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Wraith",
+    "pdf_page": 342,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Wyvern",
+    "pdf_page": 343,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Xorn",
+    "pdf_page": 343,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Young Black Dragon",
+    "pdf_page": 264,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Young Blue Dragon",
+    "pdf_page": 266,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Young Brass Dragon",
+    "pdf_page": 268,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Young Bronze Dragon",
+    "pdf_page": 270,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Young Copper Dragon",
+    "pdf_page": 276,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Young Gold Dragon",
+    "pdf_page": 291,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Young Green Dragon",
+    "pdf_page": 293,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Young Red Dragon",
+    "pdf_page": 318,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Young Silver Dragon",
+    "pdf_page": 324,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Young White Dragon",
+    "pdf_page": 340,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  },
+  {
+    "title": "Zombie",
+    "pdf_page": 343,
+    "toc_pdf_page": 4,
+    "method": "parsed contents line; not semantic rule boundary"
+  }
+]
